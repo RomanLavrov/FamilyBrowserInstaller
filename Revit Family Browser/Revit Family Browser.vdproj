@@ -4,9 +4,9 @@
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
 "ProjectName" = "8:Revit Family Browser"
-"LanguageId" = "3:1033"
+"LanguageId" = "3:1031"
 "CodePage" = "3:1252"
-"UILanguageId" = "3:1033"
+"UILanguageId" = "3:1031"
 "SccProjectName" = "8:"
 "SccLocalPath" = "8:"
 "SccAuxPath" = "8:"
@@ -442,7 +442,7 @@
         }
         "MsiBootstrapper"
         {
-        "LangId" = "3:1033"
+        "LangId" = "3:1031"
         "RequiresElevation" = "11:FALSE"
         }
         "Product"
@@ -450,7 +450,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Revit Family Browser"
         "ProductCode" = "8:{F301DDB4-C67B-4550-8D46-4DF51828400D}"
-        "PackageCode" = "8:{49B1CA0F-3704-4E5E-AC38-430950BE629C}"
+        "PackageCode" = "8:{2975603D-4F6F-4329-886C-DE7163AA0657}"
         "UpgradeCode" = "8:{FE02E060-686C-41FF-B0B4-26E43BFC87C0}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
