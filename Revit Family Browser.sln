@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Revit Family Browser", "Revit Family Browser\Revit Family Browser.vdproj", "{8EAE8022-7C4B-4B9C-8547-4DEB36C6D2BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EAE8022-7C4B-4B9C-8547-4DEB36C6D2BE}.Debug|Default.ActiveCfg = Debug
+		{8EAE8022-7C4B-4B9C-8547-4DEB36C6D2BE}.Debug|Default.Build.0 = Debug
+		{8EAE8022-7C4B-4B9C-8547-4DEB36C6D2BE}.Release|Default.ActiveCfg = Release
+		{8EAE8022-7C4B-4B9C-8547-4DEB36C6D2BE}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
